@@ -7,7 +7,7 @@
 - Ayyaz-Ul-Haq Qureshi
 - Adnan Akhunzada
 - Mehdi Yousefi
-- 
+
 ## Affiliations
 
 - Farshad Rahimi Ghashghaei:  School of Computing and Digital Technology, Birmingham City University, Birmingham B4 7XG, UK
@@ -15,7 +15,7 @@
 - Adnan Akhunzada: College of Computing and Information Technology, University of Doha for Science and Technology, Doha,
  24449, Qatar.
 - Mehdi Yousefi:  Independent Researcher, 12 Riverview Place, Glasgow G5 8EH, UK
-- 
+
 ## Overview
 
 The project includes three main approaches:
